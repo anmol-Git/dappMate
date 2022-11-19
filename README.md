@@ -5,7 +5,7 @@ Solana hack day, delhi edition
 
 Solmate is a platform where you can find collaborators for the project you are working on.
 
-Finding a collabaorator for your project is not an easy task nowadays.Solmate is a platform which will not only make this process easy but also look fun with its interactive and familiar UI. On Solmate you can swipe right or left based on the stack you want a collaborator of. On Solmate you can see the projects they have worked on, the stack they are working and their current position as well. You can also post status of the 
+Finding a collabaorator for your project is not an easy task nowadays.Solmate is a platform which will not only make this process easy but also look fun with its interactive and familiar UI. On Solmate you can swipe right or left based on the stack you want a collaborator of. On Solmate you can see the projects they have worked on, the stack they are working and their current position as well. You can also post status of the current you are working on.
 ![Home](https://user-images.githubusercontent.com/66984935/202854510-b4132c5d-11b0-4d10-ac20-74d288928ba4.png)
 ![Art View](https://user-images.githubusercontent.com/66984935/202854515-0ecc7a08-b523-457b-8715-d80776fa4562.png)
 ![Sign up](https://user-images.githubusercontent.com/66984935/202854518-ca326802-fb4a-4391-a192-ec83c1ee3e2a.jpg)
