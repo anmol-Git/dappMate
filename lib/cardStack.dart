@@ -15,25 +15,27 @@ class _CardsStackWidgetState extends State<CardsStackWidget>
     with SingleTickerProviderStateMixin {
   List<Profile> draggableItems = [
     const Profile(
-        name: 'Rohini',
-        distance: '10 miles away',
+        name: 'Hubble',
+        distance:
+            'Mint USDH against multiple types of collateral Repay whenever you want',
         imageAsset: 'assets/images/avatar_1.png'),
     const Profile(
-        name: 'Ratin',
-        distance: '10 miles away',
+        name: 'Soras',
+        distance: 'A DeFi Super-Network Built on S◎lana.',
         imageAsset: 'assets/images/avatar_2.png'),
     const Profile(
-        name: 'Rotas',
-        distance: '10 miles away',
+        name: 'ALPHA',
+        distance: 'STAKING LIVE for NFT Gorilla collection',
         imageAsset: 'assets/images/avatar_3.png'),
     const Profile(
-        name: 'Ritos',
-        distance: '10 miles away',
-        imageAsset: 'assets/images/avatar_4.png'),
+        name: 'Soras',
+        distance: 'A DeFi Super-Network Built on S◎lana.',
+        imageAsset: 'assets/images/avatar_2.png'),
     const Profile(
-        name: 'Rokos',
-        distance: '10 miles away',
-        imageAsset: 'assets/images/avatar_5.png'),
+        name: 'Hubble',
+        distance:
+            'Mint USDH against multiple types of collateral Repay whenever you want',
+        imageAsset: 'assets/images/avatar_1.png'),
   ];
 
   ValueNotifier<Swipe> swipeNotifier = ValueNotifier(Swipe.none);
