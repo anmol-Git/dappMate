@@ -11,7 +11,7 @@ Finding a collabaorator for your project is not an easy task nowadays.Solmate is
 ![Sign up](https://user-images.githubusercontent.com/66984935/202854518-ca326802-fb4a-4391-a192-ec83c1ee3e2a.jpg)
 
 
-# Full UI Preview 
+# Full UI [Preview on figma](https://www.figma.com/file/RAubV6hV34HlkmFlf3fGzb/solmate?node-id=0%3A1&t=IaObOnFOTjM3WvHi-0)
 
 1. Onboarding and wallet connection
 
