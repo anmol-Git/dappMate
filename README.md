@@ -10,6 +10,22 @@ Finding a collabaorator for your project is not an easy task nowadays.Solmate is
 ![Art View](https://user-images.githubusercontent.com/66984935/202854515-0ecc7a08-b523-457b-8715-d80776fa4562.png)
 ![Sign up](https://user-images.githubusercontent.com/66984935/202854518-ca326802-fb4a-4391-a192-ec83c1ee3e2a.jpg)
 
+
+# Full UI Preview 
+
+1. Onboarding and wallet connection
+
+![image](https://user-images.githubusercontent.com/64387054/202854854-768ccb70-826b-4883-8947-fc32a21e59b2.png)
+
+2. Profile Setup and features
+
+![image](https://user-images.githubusercontent.com/64387054/202854921-a001136c-bdd8-4df7-867a-009b9419bed5.png)
+
+3. Other features and Profile detailed view 
+
+![image](https://user-images.githubusercontent.com/64387054/202854956-be4b47fa-9851-497b-9025-fd84fafb6407.png)
+
+
 # Vision
 
 To get all the latest solana ecosystem project in your tips through a simple Implemented UI where user can like and dislike a particular project and can share the project in the community. The Vision of sol-mate is to promote the solana project in the hand of thousands of developers all over the globe the user has to connect there account and upload short brief about the projects and people can react and interact with the devs of the projects as well as contact about the future development of the project.
