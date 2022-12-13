@@ -30,6 +30,9 @@ Finding a collabaorator for your project is not an easy task nowadays.Solmate is
 
 To get all the latest solana ecosystem project in your tips through a simple Implemented UI where user can like and dislike a particular project and can share the project in the community. The Vision of sol-mate is to promote the solana project in the hand of thousands of developers all over the globe the user has to connect there account and upload short brief about the projects and people can react and interact with the devs of the projects as well as contact about the future development of the project.
 
+Link to [Blog](https://medium.com/@sharmaanmol313/our-solana-hack-day-experience-7a9558c74c02) and [Notion Site](https://www.notion.so/Solmate-Solana-Hackday-094c52963cf640f5814bb56ec6cc8e3e)
+
+
 ## Project Buildooors 💻
 
 <a href="https://github.com/anmol-Git/Solana-hack-day/graphs/contributors">
